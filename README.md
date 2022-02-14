@@ -42,6 +42,8 @@ Howdy to anyone who finds themselves here. This is a place to hone my python too
   
  -  **Chapter 7 - Github Command and Control**
   
+    - [GitHub Trojan](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter7/git_trojan.py)
+    - [Repository with modules, config, and exported data](https://github.com/DougRaccoon/bhptrojan)
   
  -  **Chapter 8 - Common Trojaning Tasks on Windows**
   
