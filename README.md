@@ -47,6 +47,7 @@ Howdy to anyone who finds themselves here. This is a place to hone my python too
   
  -  **Chapter 8 - Common Trojaning Tasks on Windows**
   
+    - [Windows Keylogger](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/keylogger.py)
   
  -  **Chapter 9 - Fun with Exfiltration**
   
