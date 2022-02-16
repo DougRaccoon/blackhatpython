@@ -2,7 +2,7 @@
 
 ![python-version](https://github.com/edoardottt/images/blob/main/black-hat-python-code/python-version.svg)
 
-Howdy to anyone who finds themselves here. This is a place to hone my python tool creation ability. Most of the scripts you will find here are from the Black Hat Python book, though I will be making my own tools for personal use. Each chapter has its own theme for the tools created within, below you can see those chapters. For my personal tools I will be sure to comment and explain what is happening, but the Black Hat Python (shortened to BHP for convenience) scripts will be raw code with little explanation as the book goes in depth as to what each script does. 
+Howdy to anyone who finds themselves here. This is a place to hone my python tool creation ability. Most of the scripts you will find here are from the Black Hat Python book, though I will be making my own tools for personal use. Each chapter has its own theme for the tools created within, below you can see those chapters. For my personal tools I will be sure to comment and explain what is happening, but the Black Hat Python (shortened to BHP for convenience) scripts will be source code with little explanation since the book goes in depth as to what each script does. 
 
 ## Contents
 
@@ -48,6 +48,7 @@ Howdy to anyone who finds themselves here. This is a place to hone my python too
  -  **Chapter 8 - Common Trojaning Tasks on Windows**
   
     - [Windows Keylogger](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/keylogger.py)
+    - [Desktop Screenshotter](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/screenshotter.py)
   
  -  **Chapter 9 - Fun with Exfiltration**
   
@@ -58,3 +59,10 @@ Howdy to anyone who finds themselves here. This is a place to hone my python too
  -  **Chapter 11 - Offensive Forensics**
 
 
+### To-do list
+ - Fix bing burp suite extension
+ - Fix shell executer
+ - Finish writing source code
+ - Test each script on Windows 7, 10, and 11 VMs
+ - Fix any script that triggers antivirus/Windows Defender (so far 0)
+ - Write a few personal tools
