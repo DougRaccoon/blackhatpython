@@ -39,7 +39,7 @@ Howdy to anyone who finds themselves here. This is a place to hone my python too
   
     - [Wordlist Creator](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter6/bhp_wordlist.py)
     - [Semi-Random Fuzzer](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter6/bhp_fuzzer.py)
-    - [Broken Bing Search Extension](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter6/bhp_bing.py)
+    - Broken [Bing Search Extension](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter6/bhp_bing.py)
   
  -  **Chapter 7 - Github Command and Control**
   
@@ -51,7 +51,7 @@ Howdy to anyone who finds themselves here. This is a place to hone my python too
     - [Windows Keylogger](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/keylogger.py)
     - [Desktop Screenshotter](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/screenshotter.py)
     - [Sandbox Detector](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/sandbox_detect.py)
-    - [Broken Shell Code Execute](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/shell_exec.py)
+    - Broken [Shell Code Execute](https://github.com/DougRaccoon/blackhatpython/blob/main/chapter8/shell_exec.py)
   
  -  **Chapter 9 - Fun with Exfiltration**
   
